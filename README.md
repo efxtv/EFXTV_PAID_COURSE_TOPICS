@@ -66,7 +66,7 @@ Unlocking the World of Ethical Hacking: Top Tools and Topics Revealed! ( Kali Li
 1. Payloads
 1. sshellnoob4
 1. Search targets
-1. hack windows 7 8 81 10 using shikata_ga_nai encoder
+1. hack windows 7 8 10 using shikata_ga_nai encoder
 1. How to hack any android phone
 1. Inspector
 1. sql injection
