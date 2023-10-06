@@ -6,7 +6,7 @@ Unlocking the World of Ethical Hacking: Top Tools and Topics Revealed! ( Kali Li
 
 
 # KALI LINUX TOOLS AND TUTORIALS	
----
+
 ### Information Gathering Tools in Kali Linux Black hat topics
 1. whois
 1. nbtstat
@@ -206,6 +206,7 @@ Unlocking the World of Ethical Hacking: Top Tools and Topics Revealed! ( Kali Li
 <dd>The creators and authors of this content do not assume any responsibility for the misuse or misinterpretation of the information provided. We strongly advise our readers to act responsibly, ethically, and legally when dealing with cybersecurity-related matters.</dd>
 </dl> 
 <br>
+
 <p align="center">Made with ❤️ By <a href="https://t.me/efxtv">EFX_TV</a></p>
 <p align="center" style="font-size: 8px"><a href="https://t.me/errorfix_tv">Credit!</a></p>
 
